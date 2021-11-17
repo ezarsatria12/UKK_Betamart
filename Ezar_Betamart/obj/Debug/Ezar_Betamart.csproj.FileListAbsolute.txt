@@ -1,0 +1,12 @@
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\bin\Debug\Barang.accdb
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\bin\Debug\Ezar_Betamart.exe.config
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\bin\Debug\Ezar_Betamart.exe
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\bin\Debug\Ezar_Betamart.pdb
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.csproj.AssemblyReference.cache
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.csproj.SuggestedBindingRedirects.cache
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.Form1.resources
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.Properties.Resources.resources
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.csproj.GenerateResource.cache
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.csproj.CoreCompileInputs.cache
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.exe
+E:\MMS\DP4\UKK_C#CRUD\Ezar_Betamart\Ezar_Betamart\obj\Debug\Ezar_Betamart.pdb
